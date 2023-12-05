@@ -36,9 +36,9 @@ Have questions or feedback? Reach out to us at [mostafasalah12635@gmail.com](mai
 ## Follow Us
 
 Stay connected with us on social media:
-- [Facebook](https://www.facebook.com/FreshFood)
-- [Twitter](https://twitter.com/FreshFood)
-- [Instagram](https://www.instagram.com/FreshFood)
+- [Facebook](https://www.facebook.com/)
+- [Twitter](https://twitter.com/)
+- [Instagram](https://www.instagram.com/)
 
 ---
 
